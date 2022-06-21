@@ -2,7 +2,6 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on learning.
-- 🌱 I’m currently learning Vue.js.
 - 💬 Ask me about Web or any related stuff.
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third works.”
 
