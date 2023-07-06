@@ -10,6 +10,7 @@
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 
