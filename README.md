@@ -14,6 +14,7 @@ JavaScript: Proficient in crafting interactive and dynamic web applications usin
 Nuxt.js: Experienced in building robust server-rendered Vue.js applications.
 Vue.js: Skilled in developing responsive and feature-rich single-page applications.
 Vuetify: Adept at designing beautiful and functional user interfaces with Vuetify.
+
 Backend:
 
 Laravel: Proficient in creating powerful web applications with the PHP framework Laravel.
