@@ -22,8 +22,7 @@ PHP: Skilled in server-side scripting for dynamic web content.
 Python: Capable of developing backend systems and automation scripts using Python.
 SQL: Proficient in database design, management, and query optimization.
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/codepur_ka_superhero](https://github.com/massuma)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/massuma-bukhari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](@BukhariMassuma)
+
 
  
 
